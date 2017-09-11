@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sugar version="1.0">
+  <residues>
+    <basetype id="1" anomer="x" superclass="pen" ringStart="1" ringEnd="5" name="x-dxyl-PEN-1:5">
+      <stemtype id="1" type="dxyl" />
+    </basetype>
+  </residues>
+  <linkages />
+</sugar>
+
+

@@ -1,0 +1,8 @@
+{n{f}{n{h{h{n}}{h{n}}}}} N 0
+{n{f}{n{h{h{n{h}}}{h{n}}}}} N 0
+{n{f}{n{h{h{n{h}}}{h{n{h}}}}}} N 0
+{n{f}{n{h{h{n{h{n}}}}{h{n}}}}} N 0
+{n{f}{n{h{h{n{h{n}}}}{h{n{h}}}}}} N 0
+{n{f}{n{h{h{n{h{s}}}}{h{n{h}}}}}} N 0
+{n{f}{n{h{h{n{f}{h{s}}}}{h{n{h}}}}}} N 0
+{n{f}{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}} N 0

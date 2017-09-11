@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sugar version="1.0">
+  <residues>
+    <basetype id="1" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dglc-HEX-1:5">
+      <stemtype id="1" type="dglc" />
+    </basetype>
+    <substituent id="2" name="n-acetyl" />
+    <basetype id="3" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dglc-HEX-1:5">
+      <stemtype id="1" type="dglc" />
+    </basetype>
+    <substituent id="4" name="n-acetyl" />
+    <basetype id="5" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dman-HEX-1:5">
+      <stemtype id="1" type="dman" />
+    </basetype>
+    <basetype id="6" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+      <stemtype id="1" type="dman" />
+    </basetype>
+    <basetype id="7" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dglc-HEX-1:5">
+      <stemtype id="1" type="dglc" />
+    </basetype>
+    <substituent id="8" name="n-acetyl" />
+    <basetype id="9" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dgal-HEX-1:5">
+      <stemtype id="1" type="dgal" />
+    </basetype>
+    <basetype id="10" anomer="a" superclass="non" ringStart="2" ringEnd="6" name="a-dgro-dgal-NON-2:6|1:a|2:keto|3:d">
+      <stemtype id="1" type="dgro" />
+      <stemtype id="2" type="dgal" />
+      <modification type="a" pos_one="1" />
+      <modification type="keto" pos_one="2" />
+      <modification type="d" pos_one="3" />
+    </basetype>
+    <substituent id="11" name="n-acetyl" />
+    <basetype id="12" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+      <stemtype id="1" type="dman" />
+    </basetype>
+    <basetype id="13" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dglc-HEX-1:5">
+      <stemtype id="1" type="dglc" />
+    </basetype>
+    <substituent id="14" name="n-acetyl" />
+    <basetype id="15" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dgal-HEX-1:5">
+      <stemtype id="1" type="dgal" />
+    </basetype>
+    <basetype id="16" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-lgal-HEX-1:5|6:d">
+      <stemtype id="1" type="lgal" />
+      <modification type="d" pos_one="6" />
+    </basetype>
+  </residues>
+  <linkages>
+    <connection id="1" parent="1" child="2">
+      <linkage id="1" parentType="d" childType="n">
+        <parent pos="2" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="2" parent="1" child="3">
+      <linkage id="2" parentType="o" childType="d">
+        <parent pos="4" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="3" parent="3" child="4">
+      <linkage id="3" parentType="d" childType="n">
+        <parent pos="2" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="4" parent="3" child="5">
+      <linkage id="4" parentType="o" childType="d">
+        <parent pos="4" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="5" parent="5" child="6">
+      <linkage id="5" parentType="o" childType="d">
+        <parent pos="3" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="6" parent="6" child="7">
+      <linkage id="6" parentType="o" childType="d">
+        <parent pos="2" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="7" parent="7" child="8">
+      <linkage id="7" parentType="d" childType="n">
+        <parent pos="2" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="8" parent="7" child="9">
+      <linkage id="8" parentType="o" childType="d">
+        <parent pos="4" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="9" parent="9" child="10">
+      <linkage id="9" parentType="o" childType="d">
+        <parent pos="3" />
+        <child pos="2" />
+      </linkage>
+    </connection>
+    <connection id="10" parent="10" child="11">
+      <linkage id="10" parentType="d" childType="n">
+        <parent pos="5" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="11" parent="5" child="12">
+      <linkage id="11" parentType="o" childType="d">
+        <parent pos="6" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="12" parent="12" child="13">
+      <linkage id="12" parentType="o" childType="d">
+        <parent pos="2" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="13" parent="13" child="14">
+      <linkage id="13" parentType="d" childType="n">
+        <parent pos="2" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="14" parent="13" child="15">
+      <linkage id="14" parentType="o" childType="d">
+        <parent pos="4" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="15" parent="1" child="16">
+      <linkage id="15" parentType="o" childType="d">
+        <parent pos="6" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+  </linkages>
+</sugar>
+
+

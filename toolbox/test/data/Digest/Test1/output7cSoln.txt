@@ -1,0 +1,19 @@
+sequence 1: ASFTKBSFFTKPCSFFFSTKRDSFFFFLRMFFFRAFFNDELRPAFFFMFFENDRNMTKNPS
+Enzyme 1:  Glu-C(V8 DE) (name) [DE](?!<) (cleavage pattern)
+Fixed ptm: C i 
+Variable ptm: M <o> 27
+Variable ptm: S {n{h{s}}} 0
+Variable ptm: S,T {n} 0
+Variable ptm: S {z} 0
+Variable ptm: T {n{x{y}}} 0
+minPTM : 0
+maxPTM : 0
+minPepLen : 4
+maxPepLen : 15
+MissedMax : 1
+>test peptide
+ELRPAFFFMFFE
+LRPAFFFMFFE
+LRPAFFFMFFEND
+NDRNMTKNPS
+RNMTKNPS

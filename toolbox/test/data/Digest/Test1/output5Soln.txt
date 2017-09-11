@@ -1,0 +1,39 @@
+sequence 1: ASFTKBSFFTKPCSFFFSTKRDSFFFFLRMFFFRAFFNDELRPAFFFMFFENDRNMTKNPS
+Enzyme 1:  Trypsin (name) [KR](?![P<]) (cleavage pattern)
+Fixed ptm: C i 
+Variable ptm: S {n{h{s}}} 4  28  29  61
+minPTM : 0
+maxPTM : 2
+minPepLen : 4
+maxPepLen : 15
+MissedMax : 1
+>test peptide
+ASFTK
+ASFT{n{h{s}}}K
+AS{n{h{s}}}FTK
+AS{n{h{s}}}FT{n{h{s}}}K
+BSFFTKPC<i>SFFFSTK
+BSFFTKPC<i>SFFFS{n{h{s}}}TK
+BSFFTKPC<i>S{n{h{s}}}FFFSTK
+BSFFTKPC<i>S{n{h{s}}}FFFS{n{h{s}}}TK
+BS{n{h{s}}}FFTKPC<i>SFFFSTK
+BS{n{h{s}}}FFTKPC<i>SFFFS{n{h{s}}}TK
+BS{n{h{s}}}FFTKPC<i>S{n{h{s}}}FFFSTK
+DSFFFFLR
+DSFFFFLRMFFFR
+DSFFFFLR{n{h{s}}}MFFFR
+DSFFFFL{n{h{s}}}R
+DSFFFFL{n{h{s}}}RMFFFR
+DSFFFFL{n{h{s}}}R{n{h{s}}}MFFFR
+DS{n{h{s}}}FFFFLR
+DS{n{h{s}}}FFFFLRMFFFR
+DS{n{h{s}}}FFFFLR{n{h{s}}}MFFFR
+DS{n{h{s}}}FFFFL{n{h{s}}}R
+DS{n{h{s}}}FFFFL{n{h{s}}}RMFFFR
+MFFFR
+NMTK
+NMTKNPS
+RDSFFFFLR
+RDSFFFFL{n{h{s}}}R
+RDS{n{h{s}}}FFFFLR
+RDS{n{h{s}}}FFFFL{n{h{s}}}R

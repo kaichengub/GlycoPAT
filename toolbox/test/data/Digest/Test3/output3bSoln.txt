@@ -1,0 +1,114 @@
+sequence 1: TGQATEYEYLDYDFLPETEPPRPMMDDDDKSRTCPPCPAPELAGAPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGKHHHHHH
+Enzyme 1:  Glu-C(V8 DE) (name) [DE](?!<) (cleavage pattern)
+Fixed ptm: C i 
+Variable ptm: M <o> 0
+Variable ptm: X <s> 7   9  12
+Variable ptm: X {n{h{s}}} 18
+Variable ptm: X {n{h}{s}} 18
+Variable ptm: X {n{s}{h{s}}} 18
+Variable ptm: X {n{n{h{s}}}{h}} 18
+Variable ptm: X {n{n{h}{h{s}}}} 18
+Variable ptm: X {n{n{f}{h}}{h{s}}} 18
+Variable ptm: X {n{n{h{s}}}{h{s}}} 18
+Variable ptm: X {n{n{f}{h{s}}}{h{s}}} 18
+Variable ptm: N {n{f}{n{h{h{n}}{h{n}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n}}{h{n{h}}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{h}}}{h{n{h}}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n}}{h{n{h{n}}}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{h}}}{h{n{h{n}}}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{h}}}{h{n{h{s}}}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{h}}}{h{n{f}{h{s}}}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h}}}}}} 0
+minPTM : 0
+maxPTM : 2
+minPepLen : 4
+maxPepLen : 15
+MissedMax : 1
+>19Fc
+DKSRTC<i>PPC<i>PAPE
+FLPE
+FLPETE
+FLPET{n{h{s}}}E
+FLPET{n{h}{s}}E
+FLPET{n{n{f}{h{s}}}{h{s}}}E
+FLPET{n{n{f}{h}}{h{s}}}E
+FLPET{n{n{h{s}}}{h{s}}}E
+FLPET{n{n{h{s}}}{h}}E
+FLPET{n{n{h}{h{s}}}}E
+FLPET{n{s}{h{s}}}E
+GSFFLYSKLTVD
+GVEVHNAKTKPRE
+IAVE
+IAVEWE
+KSRTC<i>PPC<i>PAPE
+KTISKAKGQPRE
+NNYKTTPPVLD
+NNYKTTPPVLDSD
+PEVKFNWYVD
+PPRPM<o>M<o>D
+PPRPM<o>M<o>DD
+PPRPM<o>MD
+PPRPM<o>MDD
+PPRPMM<o>D
+PPRPMM<o>DD
+PPRPMMD
+PPRPMMDD
+PQVYTLPPSRD
+PQVYTLPPSRDE
+SDGSFFLYSKLTVD
+SNGQPE
+TEPPRPM<o>M<o>D
+TEPPRPM<o>MD
+TEPPRPMM<o>D
+TEPPRPMMD
+TGQATE
+TGQATEY<s>E
+TGQATEYE
+TLM<o>ISRTPE
+TLMISRTPE
+T{n{h{s}}}EPPRPM<o>MD
+T{n{h{s}}}EPPRPMM<o>D
+T{n{h{s}}}EPPRPMMD
+T{n{h}{s}}EPPRPM<o>MD
+T{n{h}{s}}EPPRPMM<o>D
+T{n{h}{s}}EPPRPMMD
+T{n{n{f}{h{s}}}{h{s}}}EPPRPM<o>MD
+T{n{n{f}{h{s}}}{h{s}}}EPPRPMM<o>D
+T{n{n{f}{h{s}}}{h{s}}}EPPRPMMD
+T{n{n{f}{h}}{h{s}}}EPPRPM<o>MD
+T{n{n{f}{h}}{h{s}}}EPPRPMM<o>D
+T{n{n{f}{h}}{h{s}}}EPPRPMMD
+T{n{n{h{s}}}{h{s}}}EPPRPM<o>MD
+T{n{n{h{s}}}{h{s}}}EPPRPMM<o>D
+T{n{n{h{s}}}{h{s}}}EPPRPMMD
+T{n{n{h{s}}}{h}}EPPRPM<o>MD
+T{n{n{h{s}}}{h}}EPPRPMM<o>D
+T{n{n{h{s}}}{h}}EPPRPMMD
+T{n{n{h}{h{s}}}}EPPRPM<o>MD
+T{n{n{h}{h{s}}}}EPPRPMM<o>D
+T{n{n{h}{h{s}}}}EPPRPMMD
+T{n{s}{h{s}}}EPPRPM<o>MD
+T{n{s}{h{s}}}EPPRPMM<o>D
+T{n{s}{h{s}}}EPPRPMMD
+VHNAKTKPRE
+VHNAKTKPREE
+VKFNWYVD
+VKFNWYVDGVE
+VSHE
+VSHED
+VTC<i>VVVD
+VTC<i>VVVDVSHE
+WESNGQPE
+WLNGKE
+Y<s>DFLPE
+Y<s>EY<s>LD
+Y<s>EYLD
+Y<s>LDY<s>D
+Y<s>LDYD
+YDFLPE
+YEY<s>LD
+YEYLD
+YKC<i>KVSNKALPAPIE
+YLDY<s>D
+YLDYD

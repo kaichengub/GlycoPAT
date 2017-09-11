@@ -1,0 +1,18 @@
+Peptide file name:,D:\Working\Dropbox\glycoPAT\version_check121016\GlycoPAT_submit\toolbox\test\data\score\dta files from paper\Test_digested.txt
+Data Directory:,D:\Working\Dropbox\glycoPAT\version_check121016\GlycoPAT_submit\toolbox\test\data\score\dta files from paper
+Fragmentation Mode:,CID
+MS1 Tolerance:,20ppm
+MS2 Tolerance:,1Da
+nmFrag, ngFrag, npFrag=,0  2  0
+Cross Correlation maxLag=,50
+Spectra Cleanup param (CutOffMed and FracMax)=,2,0.02
+Select Peak=,293.0807         163.1         292.1         455.1         454.1
+"protein","Scan","Expt","Mono","Most","charge","sgp","fragmode","peakLag","htCenter","htAvg","percentIonMatch","Pvalue","decoyRatio","Top10","selectPeak","nmFrag","ngFrag","npFrag","enscore","fdrdecoyenscore",
+"test",1633,2957.1055,2957.1442,0,2,"EEQYN{n{f}{n{h{h{n{h}}}{h{n{h}}}}}}STYR","CID",0,0.39186,10.9246,63.6364,2.2204e-16,3.938e-10,8,,0,2,0,0.79958,-1,
+"test",1683,2633.0381,2633.0386,0,2,"EEQYN{n{f}{n{h{h{n}}{h{n}}}}}STYR","CID",0,0.47386,14.5489,71.4286,3.3415e-12,3.9007e-13,7,,0,2,0,0.83047,-1,
+"test",1737,2998.1514,2998.1708,0,2,"EEQYN{n{f}{n{h{h{n{h{n}}}}{h{n}}}}}STYR","CID",0,0.46716,11.5653,72.6027,0,3.5859e-13,9,,0,2,0,0.88156,-1,
+"test",1739,3160.1895,3160.2236,0,2,"EEQYN{n{f}{n{h{h{n{h{n}}}}{h{n{h}}}}}}STYR","CID",0,0.46605,9.7201,55.2941,2.2204e-15,1.7687e-10,9,,0,2,0,0.82705,-1,
+"test",1844,2795.1297,2795.0914,0,2,"EEQYN{n{f}{n{h{h{n{h}}}{h{n}}}}}STYR","CID",0,0.41745,9.6092,69.4915,1.3586e-11,2.2726e-09,7,,0,2,0,0.80272,-1,
+"test",2219,3394.3304,3394.2976,0,3,"EEQYN{n{f}{n{h{h{n{f}{h{s}}}}{h{n{h}}}}}}STYR","CID",0,0.46154,6.7796,33.5196,1.4075e-05,0.00011313,9,,0,2,0,0.74602,-1,
+"test",2269,3248.2015,3248.2397,0,2,"EEQYN{n{f}{n{h{h{n{h{s}}}}{h{n{h}}}}}}STYR","CID",0,0.40347,8.5149,47.0588,1.088e-14,3.8999e-13,8,,0,2,0,0.75224,-1,
+"test",3739,3539.3283,3539.3351,0,3,"EEQYN{n{f}{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}}STYR","CID",0,0.40313,12.4404,31.1258,2.1294e-13,2.1989e-08,7,,0,2,0,0.67732,-1,

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbml xmlns="http://www.sbml.org/sbml/level2" xmlns:html="http://www.w3.org/1999/xhtml" level="2" version="1">
+  <model id="UB1997Model" name="UB1997Model">
+    <listOfCompartments>
+      <compartment id="cis" name="cis" spatialDimensions="3" size="1" constant="false"/>      
+    </listOfCompartments>
+    <listOfSpecies>
+      <species id="M9_cis" name="M9_cis" compartment="cis" initialAmount="0.5" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <glycoct xmlns="http://www.eurocarbdb.org/recommendations/encoding">
+            <sugar version="1.0">
+              <residues>
+                <basetype id="1" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dglc-HEX-1:5">
+                  <stemtype id="1" type="dglc"/>
+                </basetype>
+                <substituent id="2" name="n-acetyl"/>
+                <basetype id="3" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dglc-HEX-1:5">
+                  <stemtype id="1" type="dglc"/>
+                </basetype>
+                <substituent id="4" name="n-acetyl"/>
+                <basetype id="5" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="6" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="7" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="8" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="9" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="10" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="11" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="12" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="13" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+              </residues>
+              <linkages>
+                <connection id="1" parent="1" child="2">
+                  <linkage id="1" parentType="d" childType="n">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="2" parent="1" child="3">
+                  <linkage id="2" parentType="o" childType="d">
+                    <parent pos="4"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="3" parent="3" child="4">
+                  <linkage id="3" parentType="d" childType="n">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="4" parent="3" child="5">
+                  <linkage id="4" parentType="o" childType="d">
+                    <parent pos="4"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="5" parent="5" child="6">
+                  <linkage id="5" parentType="o" childType="d">
+                    <parent pos="3"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="6" parent="6" child="7">
+                  <linkage id="6" parentType="o" childType="d">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="7" parent="7" child="8">
+                  <linkage id="7" parentType="o" childType="d">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="8" parent="5" child="9">
+                  <linkage id="8" parentType="o" childType="d">
+                    <parent pos="6"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="9" parent="9" child="10">
+                  <linkage id="9" parentType="o" childType="d">
+                    <parent pos="3"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="10" parent="10" child="11">
+                  <linkage id="10" parentType="o" childType="d">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="11" parent="9" child="12">
+                  <linkage id="11" parentType="o" childType="d">
+                    <parent pos="6"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="12" parent="12" child="13">
+                  <linkage id="12" parentType="o" childType="d">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+              </linkages>
+            </sugar>
+          </glycoct>
+        </annotation>
+      </species>
+      <species id="M8_cis" name="M8_cis" compartment="cis" initialAmount="0.5" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <glycoct xmlns="http://www.eurocarbdb.org/recommendations/encoding">
+            <sugar version="1.0">
+              <residues>
+                <basetype id="1" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dglc-HEX-1:5">
+                  <stemtype id="1" type="dglc"/>
+                </basetype>
+                <substituent id="2" name="n-acetyl"/>
+                <basetype id="3" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dglc-HEX-1:5">
+                  <stemtype id="1" type="dglc"/>
+                </basetype>
+                <substituent id="4" name="n-acetyl"/>
+                <basetype id="5" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="6" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="7" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="8" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="9" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="10" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="11" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="12" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+              </residues>
+              <linkages>
+                <connection id="1" parent="1" child="2">
+                  <linkage id="1" parentType="d" childType="n">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="2" parent="1" child="3">
+                  <linkage id="2" parentType="o" childType="d">
+                    <parent pos="4"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="3" parent="3" child="4">
+                  <linkage id="3" parentType="d" childType="n">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="4" parent="3" child="5">
+                  <linkage id="4" parentType="o" childType="d">
+                    <parent pos="4"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="5" parent="5" child="6">
+                  <linkage id="5" parentType="o" childType="d">
+                    <parent pos="3"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="6" parent="6" child="7">
+                  <linkage id="6" parentType="o" childType="d">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="7" parent="5" child="8">
+                  <linkage id="7" parentType="o" childType="d">
+                    <parent pos="6"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="8" parent="8" child="9">
+                  <linkage id="8" parentType="o" childType="d">
+                    <parent pos="3"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="9" parent="9" child="10">
+                  <linkage id="9" parentType="o" childType="d">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="10" parent="8" child="11">
+                  <linkage id="10" parentType="o" childType="d">
+                    <parent pos="6"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="11" parent="11" child="12">
+                  <linkage id="11" parentType="o" childType="d">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+              </linkages>
+            </sugar>
+          </glycoct>
+        </annotation>
+      </species>
+      <species id="M7_cis" name="M7_cis" compartment="cis" initialAmount="0" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <glycoct xmlns="http://www.eurocarbdb.org/recommendations/encoding">
+            <sugar version="1.0">
+              <residues>
+                <basetype id="1" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dglc-HEX-1:5">
+                  <stemtype id="1" type="dglc"/>
+                </basetype>
+                <substituent id="2" name="n-acetyl"/>
+                <basetype id="3" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dglc-HEX-1:5">
+                  <stemtype id="1" type="dglc"/>
+                </basetype>
+                <substituent id="4" name="n-acetyl"/>
+                <basetype id="5" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="6" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="7" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="8" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="9" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="10" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+                <basetype id="11" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-dman-HEX-1:5">
+                  <stemtype id="1" type="dman"/>
+                </basetype>
+              </residues>
+              <linkages>
+                <connection id="1" parent="1" child="2">
+                  <linkage id="1" parentType="d" childType="n">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="2" parent="1" child="3">
+                  <linkage id="2" parentType="o" childType="d">
+                    <parent pos="4"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="3" parent="3" child="4">
+                  <linkage id="3" parentType="d" childType="n">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="4" parent="3" child="5">
+                  <linkage id="4" parentType="o" childType="d">
+                    <parent pos="4"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="5" parent="5" child="6">
+                  <linkage id="5" parentType="o" childType="d">
+                    <parent pos="3"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="6" parent="6" child="7">
+                  <linkage id="6" parentType="o" childType="d">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="7" parent="5" child="8">
+                  <linkage id="7" parentType="o" childType="d">
+                    <parent pos="6"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="8" parent="8" child="9">
+                  <linkage id="8" parentType="o" childType="d">
+                    <parent pos="3"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="9" parent="8" child="10">
+                  <linkage id="9" parentType="o" childType="d">
+                    <parent pos="6"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+                <connection id="10" parent="10" child="11">
+                  <linkage id="10" parentType="o" childType="d">
+                    <parent pos="2"/>
+                    <child pos="1"/>
+                  </linkage>
+                </connection>
+              </linkages>
+            </sugar>
+          </glycoct>
+        </annotation>
+      </species>      
+    </listOfSpecies>
+    <listOfParameters>
+      <parameter id="vm1" name="vm1" value="300" constant="true"/>
+      <parameter id="vm2" name="vm2" value="300" constant="true"/>
+      <parameter id="vm3" name="vm3" value="300" constant="true"/>
+      <parameter id="km1" name="km1" value="100000000" constant="true"/>
+      <parameter id="km2" name="km2" value="100000000" constant="true"/>
+      <parameter id="km3" name="km3" value="100000000" constant="true"/>      
+    </listOfParameters>
+    <listOfReactions>
+      <reaction id="M9_cis_to_M8_cis" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="M9_cis" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M8_cis" stoichiometry="1"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <divide/>
+              <apply>
+                <divide/>
+                <apply>
+                  <times/>
+                  <apply>
+                    <divide/>
+                    <ci> vm1 </ci>
+                    <ci> qp </ci>
+                  </apply>
+                  <cn type="integer"> 24 </cn>
+                  <ci> M9_cis </ci>
+                  <ci> ManI_cis </ci>
+                </apply>
+                <ci> km1 </ci>
+              </apply>
+              <apply>
+                <plus/>
+                <apply>
+                  <divide/>
+                  <apply>
+                    <times/>
+                    <ci> kg </ci>
+                    <ci> vg </ci>
+                  </apply>
+                  <ci> qp </ci>
+                </apply>
+                <apply>
+                  <divide/>
+                  <ci> M9_cis </ci>
+                  <ci> km1 </ci>
+                </apply>
+                <apply>
+                  <divide/>
+                  <ci> M8_cis </ci>
+                  <ci> km2 </ci>
+                </apply>
+                <apply>
+                  <divide/>
+                  <ci> M7_cis </ci>
+                  <ci> km3 </ci>
+                </apply>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction id="M8_cis_to_M7_cis" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="M8_cis" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M7_cis" stoichiometry="1"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <divide/>
+              <apply>
+                <divide/>
+                <apply>
+                  <times/>
+                  <apply>
+                    <divide/>
+                    <ci> vm2 </ci>      
+                  </apply>
+                  <cn type="integer"> 24 </cn>
+                  <ci> M8_cis </ci>                  
+                </apply>
+                <ci> km2 </ci>
+              </apply>
+              <apply>
+                <plus/>
+                <apply>
+                  <divide/>
+                  <apply>
+                    <times/>
+                    <ci> kg </ci>
+                    <ci> vg </ci>
+                  </apply>
+                  <ci> qp </ci>
+                </apply>
+                <apply>
+                  <divide/>
+                  <ci> M9_cis </ci>
+                  <ci> km1 </ci>
+                </apply>
+                <apply>
+                  <divide/>
+                  <ci> M8_cis </ci>
+                  <ci> km2 </ci>
+                </apply>
+                <apply>
+                  <divide/>
+                  <ci> M7_cis </ci>
+                  <ci> km3 </ci>
+                </apply>                
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>      
+    </listOfReactions>
+  </model>
+</sbml>

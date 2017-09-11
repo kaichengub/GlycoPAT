@@ -1,0 +1,9 @@
+Peptide file name:,D:\Working\Dropbox\glycoPAT\version_check121016\GlycoPAT_submit\toolbox\test\data\score\mzxml files\19FcTry.txt
+Data Directory:,D:\Working\Dropbox\glycoPAT\version_check121016\GlycoPAT_submit\toolbox\test\data\score\mzxml files\B11_01_130622_19FC_try_Top7_1uL_CID_250nL_50Col_col73_long
+Fragmentation Mode:,CID
+MS1 Tolerance:,20ppm
+MS2 Tolerance:,1Da
+nmFrag, ngFrag, npFrag=,0  0  0
+Cross Correlation maxLag=,50
+Spectra Cleanup param (CutOffMed and FracMax)=,2,0.02
+Select Peak=,293.0807         163.1         292.1         455.1         454.1

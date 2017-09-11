@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbml xmlns="http://www.sbml.org/sbml/level2" level="2" version="1">
+    <model id="LinearNLINKMODEL">
+        <notes>
+            <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>Simple Linear system.</p>
+                <p>reaction-1:   M9 -> M8; k1*M9;</p>
+                <p>reaction-2:   M8 -> M7; k2*M8;</p>
+                <p>reaction-3:   M7 -> M6; k3*M7;</p>
+            </body>
+        </notes>
+        <listOfCompartments>
+            <compartment id="compartmentOne" size="1"/>
+        </listOfCompartments>
+        <listOfSpecies>
+            <species id="M9" initialConcentration="20" compartment="compartmentOne"
+                     boundaryCondition="false"/>
+            <species id="M8" initialConcentration="10" compartment="compartmentOne"
+                     boundaryCondition="false"/>
+            <species id="M7" initialConcentration="5" compartment="compartmentOne"
+                     boundaryCondition="false"/>
+            <species id="M6" initialConcentration="0" compartment="compartmentOne"
+                     boundaryCondition="false"/>
+        </listOfSpecies>
+        <listOfReactions>
+            <reaction id="reaction_1" reversible="false">
+                <listOfReactants>
+                    <speciesReference species="M9"/>
+                </listOfReactants>
+                <listOfProducts>
+                    <speciesReference species="M8"/>
+                </listOfProducts>
+                <kineticLaw>
+                    <math xmlns="http://www.w3.org/1998/Math/MathML">
+                        <apply>
+                            <times/>
+                            <ci> k1 </ci>
+                            <ci> M9 </ci>
+                        </apply>
+                    </math>
+                    <listOfParameters>
+                        <parameter id="k1" value="0.3"/>
+                    </listOfParameters>
+                </kineticLaw>
+            </reaction>
+            <reaction id="reaction_2" reversible="false">
+                <listOfReactants>
+                    <speciesReference species="M8"/>
+                </listOfReactants>
+                <listOfProducts>
+                    <speciesReference species="M7"/>
+                </listOfProducts>
+                <kineticLaw>
+                    <math xmlns="http://www.w3.org/1998/Math/MathML">
+                        <apply>
+                            <times/>
+                            <ci> k2 </ci>
+                            <ci> M8 </ci>
+                        </apply>
+                    </math>
+                    <listOfParameters>
+                        <parameter id="k2" value="0.2"/>
+                    </listOfParameters>
+                </kineticLaw>
+            </reaction>
+            <reaction id="reaction_3" reversible="false">
+                <listOfReactants>
+                    <speciesReference species="M7"/>
+                </listOfReactants>
+                <listOfProducts>
+                    <speciesReference species="M6"/>
+                </listOfProducts>
+                <kineticLaw>
+                    <math xmlns="http://www.w3.org/1998/Math/MathML">
+                        <apply>
+                            <times/>
+                            <ci> k3 </ci>
+                            <ci> M7 </ci>
+                        </apply>
+                    </math>
+                    <listOfParameters>
+                        <parameter id="k3" value="0.2"/>
+                    </listOfParameters>
+                </kineticLaw>
+            </reaction>
+        </listOfReactions>
+    </model>
+</sbml>

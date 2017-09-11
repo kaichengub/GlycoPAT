@@ -1,0 +1,13 @@
+Peptide file name:,D:\Working\Dropbox\glycoPAT\version_check121016\GlycoPAT_submit\toolbox\demo\GlyPepDB.txt
+Data Directory:,D:\Working\Dropbox\glycoPAT\version_check121016\GlycoPAT_submit\toolbox\test\data\dta\fetuin
+Fragmentation Mode:,CID
+MS1 Tolerance:,20ppm
+MS2 Tolerance:,1Da
+nmFrag, ngFrag, npFrag=,0  0  1
+Cross Correlation maxLag=,50
+Spectra Cleanup param (CutOffMed and FracMax)=,2,0.02
+Select Peak=,
+"protein","Scan","Expt","Mono","Most","charge","sgp","fragmode","peakLag","htCenter","htAvg","percentIonMatch","Pvalue","decoyRatio","Top10","selectPeak","nmFrag","ngFrag","npFrag","enscore","fdrdecoyenscore",
+"sp|P02751|FINC_HUMAN",3558,1767.9822,1767.9744,0,3,"IGFKLGVRPSQGGEAPR","CID",37,0.074182,1.7716,39.0625,0.49778,0.84685,0,,0,0,1,0.12207,-1,
+"sp|P02751|FINC_HUMAN",3642,1675.8281,1675.843,0,2,"IAWESPQGQVSRYR","CID",10,0.067976,2.0355,31.8182,0.57347,0.70427,1,,0,0,1,0.12443,-1,
+"sp|P02751|FINC_HUMAN",3654,2255.9945,2255.9986,0,3,"LLC<i>QC<i>LGFGSGHFRC<i>DSSR","CID",26,0.17368,1.847,48.7179,0.1429,0.19417,2,,0,0,1,0.20224,-1,

@@ -1,0 +1,30 @@
+Peptide file name:,C:\Users\neel\Dropbox\glycoPAT\version_check121016\GlycoPAT_submit\toolbox\demo\basigin_SGP.txt
+XML File Name:,C:\Users\neel\Dropbox\glycoPAT\version_check121016\GlycoPAT_submit\toolbox\demo\HCD_Example.mzXML
+Fragmentation Mode:,HCDSpecial
+MS1 Tolerance:,20ppm
+MS2 Tolerance:,80ppm
+nmFrag, ngFrag, npFrag=,0  1  0
+Cross Correlation maxLag=,50
+Spectra Cleanup param (CutOffMed and FracMax)=,2,0.02
+Select Peak=,
+"protein","Scan","Expt","Mono","Most","charge","sgp","fragmode","peakLag","htCenter","htAvg","percentIonMatch","Pvalue","decoyRatio","Top10","selectPeak","nmFrag","ngFrag","npFrag","enscore","fdrdecoyenscore",
+"sp|P35613|BASI_HUMAN",22805,4412.8627,4412.8893,0,4,"C<i>N{n{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}{f}}GTSSKGSDQAIITLRVR","HCDSpecial",15,6.7508e-18,2.7841e-15,0,1,0.84617,0,,0,1,0,0,-1,
+"sp|P35613|BASI_HUMAN",22810,1803.8135,1803.8131,0,3,"SSEHINEGETAMLVC<i>K","HCDSpecial",15,0.063272,1.0567,0,1,NaN,0,,0,0,0,0,-1,
+"sp|P35613|BASI_HUMAN",22823,3405.4995,3405.4863,0,3,"ILLTC<i>SLN{n{n{h{h{n}}{h{h}{h}}}}}DSATEVTGHR","HCDSpecial",1,0.16387,17.5261,14.2857,0.084481,1.5694e-05,2,,0,1,0,0.12605,-1,
+"sp|P35613|BASI_HUMAN",22832,3633.6075,3633.5973,0,3,"ILLTC<i>SLN{n{n{h{h{n}}{h{n}{n}}}}{f}}DSATEVTGHR","HCDSpecial",2,0.081249,11.371,22.2222,0.072496,0.00023205,0,,0,1,0,0,-1,
+"sp|P35613|BASI_HUMAN",22833,1013.4948,1013.493,0,2,"FFVSSSQGR","HCDSpecial",18,1.5738e-17,7.7427e-16,0,1,NaN,0,,0,0,0,0,-1,
+"sp|P35613|BASI_HUMAN",22844,1409.7882,1409.7878,0,3,"GGVVLKEDALPGQK","HCDSpecial",9,0.013967,0.33564,0,1,NaN,0,,0,0,0,0,-1,
+"sp|P35613|BASI_HUMAN",22848,4616.9541,4616.89,0,4,"SELHIENLNM<o>EADPGQYRC<i>N{n{n{h{h{n}}{h{n{h{s}}}}}}}GTSSK","HCDSpecial",41,-3.7612e-19,-6.6666e-17,0,1,NaN,0,,0,1,0,0,-1,
+"sp|P35613|BASI_HUMAN",22854,1072.5902,1072.5877,0,2,"GSDQAIITLR","HCDSpecial",7,0.013499,0.21813,0,1,NaN,0,,0,0,0,0,-1,
+"sp|P35613|BASI_HUMAN",22858,4778.0151,4778.0215,0,4,"C<i>N{n{n{h{h{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}GTSSKGSDQAIITLRVR","HCDSpecial",42,2.9093e-18,9.5803e-15,0,1,NaN,0,,0,1,0,0,-1,
+"sp|P35613|BASI_HUMAN",22862,3756.6438,3756.6617,0,3,"C<i>N{n{n{h{h{n{h{s}}}}{h}}}{f}}GTSSKGSDQAIITLRVR","HCDSpecial",50,-8.7078e-20,-3.37e-17,0,1,NaN,0,,0,1,0,0,-1,
+"sp|P35613|BASI_HUMAN",22865,3202.415,3202.4069,0,3,"ILLTC<i>SLN{n{n{h{h}{h{h}{h}}}}}DSATEVTGHR","HCDSpecial",23,0.13438,6.1289,15.3846,0.094884,0.00012288,1,,0,1,0,0,-1,
+"sp|P35613|BASI_HUMAN",22866,3081.3889,3081.3806,0,3,"ILLTC<i>SLN{n{n{h{h{n}}{h}}}}DSATEVTGHR","HCDSpecial",1,0.21001,9.8909,15.3846,0.084814,2.5215e-05,1,,0,1,0,0.16154,-1,
+"sp|P35613|BASI_HUMAN",22876,3227.4463,3227.4385,0,3,"ILLTC<i>SLN{n{n{h{h{n}}{h}}}{f}}DSATEVTGHR","HCDSpecial",23,0.089915,6.7965,12.5,0.081697,2.5361e-16,0,,0,1,0,0,-1,
+"sp|P35613|BASI_HUMAN",22877,3430.5239,3430.5179,0,4,"ILLTC<i>SLN{n{n{h{h{n}}{h{n}}}}{f}}DSATEVTGHR","HCDSpecial",1,0.058788,9.5427,5.2632,0.26424,0.34625,0,,0,1,0,0.045222,-1,
+"sp|P35613|BASI_HUMAN",22878,3430.5274,3430.5179,0,3,"ILLTC<i>SLN{n{n{h{h{n}}{h{n}}}}{f}}DSATEVTGHR","HCDSpecial",1,0.08531,10.8844,11.1111,0.095589,0.033505,0,,0,1,0,0.065623,-1,
+"sp|P35613|BASI_HUMAN",22885,4162.7929,4162.8204,0,4,"C<i>N{n{n{h{h{n}}{h{n}{n{h{s}}}}}}{f}}GTSSKGSDQAIITLRVR","HCDSpecial",22,-4.2693e-18,4.5047,0,1,NaN,0,,0,1,0,0,-1,
+"sp|P35613|BASI_HUMAN",22887,3446.525,3446.5128,0,3,"ILLTC<i>SLN{n{n{h{h{n}}{h{n{h}}}}}}DSATEVTGHR","HCDSpecial",1,0.18424,17.5541,7.1429,0.00077898,8.7521e-05,1,,0,1,0,0.35521,-1,
+"sp|P35613|BASI_HUMAN",22888,3243.431,3243.4334,0,3,"ILLTC<i>SLN{n{n{h{h{n{h}}}{h}}}}DSATEVTGHR","HCDSpecial",23,0.18014,11.1837,7.6923,0,0,1,,0,1,0,0.5,-1,
+"sp|P35613|BASI_HUMAN",22888,3243.431,3243.4334,0,3,"ILLTC<i>SLN{n{n{h{h{n}}{h{h}}}}}DSATEVTGHR","HCDSpecial",23,0.18014,11.1837,7.6923,0,0,1,,0,1,0,0.5,-1,
+"sp|P35613|BASI_HUMAN",22898,1819.8085,1819.808,0,3,"SSEHINEGETAM<o>LVC<i>K","HCDSpecial",15,0.032882,0.63503,16.6667,0.26424,0.34625,0,,0,0,0,0,-1,

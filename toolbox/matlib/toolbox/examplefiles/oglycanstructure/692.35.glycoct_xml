@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sugar version="1.0">
+  <residues>
+    <basetype id="1" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dglc-HEX-1:5">
+      <stemtype id="1" type="dglc" />
+    </basetype>
+    <basetype id="2" anomer="b" superclass="hex" ringStart="1" ringEnd="5" name="b-dgal-HEX-1:5">
+      <stemtype id="1" type="dgal" />
+    </basetype>
+    <substituent id="3" name="n-acetyl" />
+    <basetype id="4" anomer="a" superclass="hex" ringStart="1" ringEnd="5" name="a-lgal-HEX-1:5|6:d">
+      <stemtype id="1" type="lgal" />
+      <modification type="d" pos_one="6" />
+    </basetype>
+  </residues>
+  <linkages>
+    <connection id="1" parent="1" child="2">
+      <linkage id="1" parentType="o" childType="d">
+        <parent pos="-1" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="2" parent="1" child="3">
+      <linkage id="2" parentType="d" childType="n">
+        <parent pos="2" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+    <connection id="3" parent="1" child="4">
+      <linkage id="3" parentType="o" childType="d">
+        <parent pos="3" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+  </linkages>
+</sugar>
+
+

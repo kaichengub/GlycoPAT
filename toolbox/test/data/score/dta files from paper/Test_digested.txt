@@ -1,0 +1,27 @@
+sequence 1: 
+EEQYNSTYR
+Enzyme Trypsin: (name) [KR](?![P<]) (cleavage pattern)
+Fixed ptm: C i 
+Variable ptm: N {n{f}{n{h{h{n}}{h{n}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{h}}}{h{n}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{h}}}{h{n{h}}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{h{n}}}}{h{n}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{h{n}}}}{h{n{h}}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{h{s}}}}{h{n{h}}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{f}{h{s}}}}{h{n{h}}}}}} 0
+Variable ptm: N {n{f}{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}} 0
+minPTM : 0
+maxPTM : 2
+minPepLen : 4
+maxPepLen : 20
+MissedMax : 0
+>test peptide
+EEQYNSTYR
+EEQYN{n{f}{n{h{h{n{f}{h{s}}}}{h{n{h}}}}}}STYR
+EEQYN{n{f}{n{h{h{n{h{n}}}}{h{n{h}}}}}}STYR
+EEQYN{n{f}{n{h{h{n{h{n}}}}{h{n}}}}}STYR
+EEQYN{n{f}{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}}STYR
+EEQYN{n{f}{n{h{h{n{h{s}}}}{h{n{h}}}}}}STYR
+EEQYN{n{f}{n{h{h{n{h}}}{h{n{h}}}}}}STYR
+EEQYN{n{f}{n{h{h{n{h}}}{h{n}}}}}STYR
+EEQYN{n{f}{n{h{h{n}}{h{n}}}}}STYR

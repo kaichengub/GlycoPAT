@@ -1,0 +1,17 @@
+sequence 1: ASFTKBSFFTKPCSFFFSTKRDSFFFFLRMFFFRAFFNDELRPAFFFMFFENDRNMTKNPS
+Enzyme 1:  Trypsin (name) [KR](?![P<]) (cleavage pattern)
+Fixed ptm: C i 
+minPTM : 0
+maxPTM : 2
+minPepLen : 4
+maxPepLen : 15
+MissedMax : 1
+>test peptide
+ASFTK
+BSFFTKPC<i>SFFFSTK
+DSFFFFLR
+DSFFFFLRMFFFR
+MFFFR
+NMTK
+NMTKNPS
+RDSFFFFLR

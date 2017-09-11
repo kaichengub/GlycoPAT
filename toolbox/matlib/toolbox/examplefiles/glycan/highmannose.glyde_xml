@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlydeII>
+  <molecule subtype="glycan" id="From_GlycoCT_Translation">
+    <residue subtype="base_type" partid="1" ref="http://www.monosaccharideDB.org/GLYDE-II.jsp?G=b-dglc-HEX-1:5" />
+    <residue subtype="substituent" partid="2" ref="http://www.monosaccharideDB.org/GLYDE-II.jsp?G=n-acetyl" />
+    <residue subtype="base_type" partid="3" ref="http://www.monosaccharideDB.org/GLYDE-II.jsp?G=b-dglc-HEX-1:5" />
+    <residue subtype="substituent" partid="4" ref="http://www.monosaccharideDB.org/GLYDE-II.jsp?G=n-acetyl" />
+    <residue subtype="base_type" partid="5" ref="http://www.monosaccharideDB.org/GLYDE-II.jsp?G=b-dman-HEX-1:5" />
+    <residue subtype="base_type" partid="6" ref="http://www.monosaccharideDB.org/GLYDE-II.jsp?G=a-dman-HEX-1:5" />
+    <residue subtype="base_type" partid="7" ref="http://www.monosaccharideDB.org/GLYDE-II.jsp?G=a-dman-HEX-1:5" />
+    <residue subtype="base_type" partid="8" ref="http://www.monosaccharideDB.org/GLYDE-II.jsp?G=a-dman-HEX-1:5" />
+    <residue subtype="base_type" partid="9" ref="http://www.monosaccharideDB.org/GLYDE-II.jsp?G=a-dman-HEX-1:5" />
+    <residue subtype="base_type" partid="10" ref="http://www.monosaccharideDB.org/GLYDE-II.jsp?G=a-dman-HEX-1:5" />
+    <residue_link from="2" to="1">
+      <atom_link from="N1H" to="C2" to_replace="O2" bond_order="1" />
+    </residue_link>
+    <residue_link from="3" to="1">
+      <atom_link from="C1" to="O4" from_replace="O1" bond_order="1" />
+    </residue_link>
+    <residue_link from="4" to="3">
+      <atom_link from="N1H" to="C2" to_replace="O2" bond_order="1" />
+    </residue_link>
+    <residue_link from="5" to="3">
+      <atom_link from="C1" to="O4" from_replace="O1" bond_order="1" />
+    </residue_link>
+    <residue_link from="6" to="5">
+      <atom_link from="C1" to="O3" from_replace="O1" bond_order="1" />
+    </residue_link>
+    <residue_link from="7" to="6">
+      <atom_link from="C1" to="O2" from_replace="O1" bond_order="1" />
+    </residue_link>
+    <residue_link from="8" to="5">
+      <atom_link from="C1" to="O6" from_replace="O1" bond_order="1" />
+    </residue_link>
+    <residue_link from="9" to="8">
+      <atom_link from="C1" to="O3" from_replace="O1" bond_order="1" />
+    </residue_link>
+    <residue_link from="10" to="8">
+      <atom_link from="C1" to="O6" from_replace="O1" bond_order="1" />
+    </residue_link>
+  </molecule>
+</GlydeII>
+
+

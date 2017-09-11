@@ -1,0 +1,365 @@
+sequence 1: MKSFVLLFCLAQLWGCHSIPLDPVAGYKEPACDDPDTEQAALAAVDYINKHLPRGYKHTLNQIDSVKVWPRRPTGEVYDIEIDTLETTCHVLDPTPLANCSVRQQTQHAVEGDCDIHVLKQDGQFSVLFTKCDSSPDSAEDVRKLCPDCPLLAPLNDSRVVHAVEVALATFNAESNGSYLQLVEISRAQFVPLPVSVSVEFAVAATDCIAKEVVDPTKCNLLAEKQYGFCKGSVIQKALGGEDVRVTCTLFQTQPVIPQPQPDGAEAEAPSAVPDAAGPTPSAAGPPVASVVVGPSVVAVPLPLHRAHYDLRHTFSGVASVESSSGEAFHVGKTPIVGQPSIPGGPVRLCPGRIRYFKI
+Enzyme:  Trypsin (name) [KR](?![P<]) (cleavage pattern)
+Fixed ptm: C i 
+Variable ptm: M <o> 0
+Variable ptm: N {n{n{h{h{h{h}}}{h{h{h}}{h{h}}}}}} 0
+Variable ptm: N {n{n{h{h{h{h}}}{h{h{h}}{h}}}}} 0
+Variable ptm: N {n{n{h{h{h{h}}}{h{h}{h{h}}}}}} 0
+Variable ptm: N {n{n{h{h{h}}{h{h{h}}{h}}}}} 0
+Variable ptm: N {n{n{h{h{h}}{h{h}{h{h}}}}}} 0
+Variable ptm: N {n{n{h{h{h}}{h{h}{h}}}}} 0
+Variable ptm: N {n{n{h{h{n{h{s}}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h{s}}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n{h{s}}}}{h}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h{s}}}}{h}}}} 0
+Variable ptm: N {n{n{h{h{n{h}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n{h}}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h}}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h}}}}}} 0
+Variable ptm: N {n{n{h{h{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n{h}}}{h{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h}}}{h{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n{h}}}{h{n{h}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h}}}{h{n{h}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n{h}}}{h{n{h}}{n{h}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h}}}{h{n{h}}{n{h}}}}}} 0
+Variable ptm: N {n{n{h{h{n{h}}}{h{n{h}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h}}}{h{n{h}}}}}} 0
+Variable ptm: N {n{n{h{h{n{h}}}{h}}}{f}} 0
+Variable ptm: N {n{n{h{h{n{h}}}{h}}}} 0
+Variable ptm: N {n{n{h{h{n}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n}{n{h}}}{h{n{h}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}{n{h}}}{h{n{h}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n}{n{h}}}{h{n{h}}{n{h}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}{n{h}}}{h{n{h}}{n{h}}}}}} 0
+Variable ptm: N {n{n{h{h{n}{n}}{h{n{h{s}}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}{n}}{h{n{h{s}}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n}{n}}{h{n{h}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}{n}}{h{n{h}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n}{n}}{h{n{h}}{n{h}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}{n}}{h{n{h}}{n{h}}}}}} 0
+Variable ptm: N {n{n{h{h{n}{n}}{h{n}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}{n}}{h{n}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n}{n}}{h{n}{n{h}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}{n}}{h{n}{n{h}}}}}} 0
+Variable ptm: N {n{n{h{h{n}{n}}{h{n}{n}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}{n}}{h{n}{n}}}}} 0
+Variable ptm: N {n{n{h{h{n}}{h{h}{h}}}}} 0
+Variable ptm: N {n{n{h{h{n}}{h{h}}}}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n{h{s}}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n{h{s}}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n{h}}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n{h}}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n{h}}{n{h}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n{h}}{n{h}}}}}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n{h}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n{h}}}}}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n}{n{h{s}}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n}{n{h{s}}}}}}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n}{n{h}}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n}{n{h}}}}}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n}{n}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n}{n}}}}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n}}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}}{h{n}}}}} 0
+Variable ptm: N {n{n{h{h{n}}{h}}}{f}} 0
+Variable ptm: N {n{n{h{h{n}}{h}}}} 0
+Variable ptm: N {n{n{h{h}{h{h{h}}{h{h}}}}}} 0
+Variable ptm: N {n{n{h{h}{h{h{h}}{h}}}}} 0
+Variable ptm: N {n{n{h{h}{h{h}{h}}}}} 0
+minPTM : 0
+maxPTM : 3
+minPepLen : 4
+maxPepLen : 30
+MissedMax : 1
+>fetuin 
+AHYDLR 
+AHYDLRHTFSGVASVESSSGEAFHVGK 
+ALGGEDVR 
+AQFVPLPVSVSVEFAVAATDC<i>IAK 
+C<i>DSSPDSAEDVR 
+C<i>DSSPDSAEDVRK 
+C<i>NLLAEK 
+C<i>NLLAEKQYGFC<i>K 
+EPAC<i>DDPDTEQAALAAVDYINK 
+EPAC<i>DDPDTEQAALAAVDYINKHLPR 
+EVVDPTK 
+EVVDPTKC<i>NLLAEK 
+GSVIQK 
+GSVIQKALGGEDVR 
+GYKHTLNQIDSVK 
+HLPR 
+HLPRGYK 
+HTFSGVASVESSSGEAFHVGK 
+HTLNQIDSVK 
+HTLNQIDSVKVWPR 
+IRYFK 
+KLC<i>PDC<i>PLLAPLNDSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{h{h}}}{h{h{h}}{h{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{h{h}}}{h{h{h}}{h}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{h{h}}}{h{h}{h{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{h}}{h{h{h}}{h}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{h}}{h{h}{h{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{h}}{h{h}{h}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}}{h}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}}{h}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h}}{n{h}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h}}{n{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h}}}{h{n{h}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h}}}{h{n{h}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h}}}{h{n{h}}{n{h}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h}}}{h{n{h}}{n{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n{h}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n{h}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n{h}}{n{h}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n{h}}{n{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n}{n{h}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n}{n{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n}{n}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n}{n}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{h}{h}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{h}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h}}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h}}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h}}{n{h}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h}}{n{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}{n{h{s}}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}{n{h{s}}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}{n{h}}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}{n{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}{n}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}{n}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h}}}{f}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h}{h{h{h}}{h{h}}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h}{h{h{h}}{h}}}}}DSR 
+KLC<i>PDC<i>PLLAPLN{n{n{h{h}{h{h}{h}}}}}DSR 
+LC<i>PDC<i>PLLAPLNDSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{h{h}}}{h{h{h}}{h{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{h{h}}}{h{h{h}}{h}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{h{h}}}{h{h}{h{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{h}}{h{h{h}}{h}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{h}}{h{h}{h{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{h}}{h{h}{h}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}}{h}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h{s}}}}{h}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h}}{n{h}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h}}{n{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h{n{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n{h}}}{h}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h}}}{h{n{h}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h}}}{h{n{h}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h}}}{h{n{h}}{n{h}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n{h}}}{h{n{h}}{n{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n{h}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n{h}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n{h}}{n{h}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n{h}}{n{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n}{n{h}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n}{n{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n}{n}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}{n}}{h{n}{n}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{h}{h}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{h}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h{s}}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h{s}}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h}}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h}}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h}}{n{h}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h}}{n{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}{n{h{s}}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}{n{h{s}}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}{n{h}}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}{n{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}{n}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}{n}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h{n}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h}}}{f}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h{n}}{h}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h}{h{h{h}}{h{h}}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h}{h{h{h}}{h}}}}}DSR 
+LC<i>PDC<i>PLLAPLN{n{n{h{h}{h{h}{h}}}}}DSR 
+LC<i>PGR 
+LC<i>PGRIR 
+M<o>KSFVLLFC<i>LAQLWGC<i>HSIPLDPVAGYK 
+MKSFVLLFC<i>LAQLWGC<i>HSIPLDPVAGYK 
+QDGQFSVLFTK 
+QDGQFSVLFTKC<i>DSSPDSAEDVR 
+QQTQHAVEGDC<i>DIHVLK 
+QQTQHAVEGDC<i>DIHVLKQDGQFSVLFTK 
+QYGFC<i>K 
+QYGFC<i>KGSVIQK 
+SFVLLFC<i>LAQLWGC<i>HSIPLDPVAGYK 
+TPIVGQPSIPGGPVR 
+TPIVGQPSIPGGPVRLC<i>PGR 
+VVHAVEVALATFNAESNGSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{h{h}}}{h{h{h}}{h{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{h{h}}}{h{h{h}}{h}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{h{h}}}{h{h}{h{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{h}}{h{h{h}}{h}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{h}}{h{h}{h{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{h}}{h{h}{h}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h{s}}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h{s}}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h{s}}}}{h{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h{s}}}}{h}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h{s}}}}{h}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}{n{h}}}{h{n{h}}{n{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}}{h{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}}{h{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}}{h{n{h}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}}{h{n{h}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}}{h{n{h}}{n{h}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}}{h{n{h}}{n{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}}{h{n{h}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}}{h{n{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}}{h}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n{h}}}{h}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n{h{s}}}}{h{n{h{s}}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n{h}}}{h{n{h{s}}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n{h}}}{h{n{h}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n{h}}}{h{n{h}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n{h}}}{h{n{h}}{n{h}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n{h}}}{h{n{h}}{n{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n}}{h{n{h{s}}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n}}{h{n{h{s}}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n}}{h{n{h}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n}}{h{n{h}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n}}{h{n{h}}{n{h}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n}}{h{n{h}}{n{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n}}{h{n}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n}}{h{n}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n}}{h{n}{n{h}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n}}{h{n}{n{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n}}{h{n}{n}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}{n}}{h{n}{n}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{h}{h}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{h}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n{h{s}}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n{h{s}}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n{h}}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n{h}}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n{h}}{n{h}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n{h}}{n{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n{h}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n}{n{h{s}}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n}{n{h{s}}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n}{n{h}}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n}{n{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n}{n}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n}{n}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n}}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h{n}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h}}}{f}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h{n}}{h}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h}{h{h{h}}{h{h}}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h}{h{h{h}}{h}}}}}GSYLQLVEISR 
+VVHAVEVALATFNAESN{n{n{h{h}{h{h}{h}}}}}GSYLQLVEISR 
+VWPR 
+YFKI 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sugar version="1.0">
+  <residues>
+    <basetype id="1" anomer="o" superclass="hex" ringStart="0" ringEnd="0" name="o-dgal-HEX-0:0|1:aldi">
+      <stemtype id="1" type="dgal" />
+      <modification type="aldi" pos_one="1" />
+    </basetype>
+    <substituent id="2" name="n-acetyl" />
+  </residues>
+  <linkages>
+    <connection id="1" parent="1" child="2">
+      <linkage id="1" parentType="d" childType="n">
+        <parent pos="2" />
+        <child pos="1" />
+      </linkage>
+    </connection>
+  </linkages>
+</sugar>
+
+
