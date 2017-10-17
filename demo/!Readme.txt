@@ -1,6 +1,6 @@
 This folder contains various files that can be used as a starting point to run GlycoPAT.
 
-DigestGUI: "FASTA_basigen.txt" or "FASTA_fetuin.txt" contains a protein sequence. This file along with "fixed_ptm_std.txt" and "standard_N_glycans.txt" can be used to run digestGUI. The output from this operation is a .txt file containing GlyPepDB, for example "GlyPepDB_fibronectin_simple.txt".
+DigestGUI: "FASTA_basigen.txt" or "FASTA_fetuin.txt" contains a protein sequence. This file along with "fixed_ptm_std.txt" and "standard_N_glycans.txt" can be used to run digestGUI. The output from this operation is a .txt file containing GlyPepDB, for example "GlyPepDB_Basigin.txt".
 
 ScoreGUI: Next, GlyPepDB .txt file along with .mzXML data file can be loaded into ScoreGUI. Running this program will generate the program output that resembles a .csv file.
 
