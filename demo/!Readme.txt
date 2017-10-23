@@ -13,3 +13,5 @@ i. These files were generated on 'our' local drive and thus the path will be dif
 ii. A standard file for O-glycan variable PTM modifications is also included.
 
 iii. For more information please see our Youtube instructional video or refer to the program instructional manual.
+
+Example files for glycan synthesis network generation is available at GlycoPAT/toolbox/matlib/toolbox/examplefiles/. If toolbox was installed successfully the files should be present in MATLAB search path, the code in the manual can be run directly.
